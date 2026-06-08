@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.caja{
+    border: 3px solid black;
+    width: 400px;
+    padding: 15px 30px 45px 60px;
+    background-color: #FFF4A3;
+}

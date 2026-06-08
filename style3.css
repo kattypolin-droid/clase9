@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.caja{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    border: 3px solid black;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 250px;
+}
+
+p{
+    margin-top: 20px;
+}

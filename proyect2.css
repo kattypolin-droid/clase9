@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+.contenedor{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.articulo{
+    display: inline-block;
+    width: 48%;
+    border: 1px solid black;
+    padding: 15px;
+    margin-right: 2%;
+    vertical-align: top;
+}
+
+.articulo:last-child{
+    margin-right: 0;
+}
+
+.articulo h2{
+    margin-bottom: 10px;
+}
+
+.articulo p{
+    margin-bottom: 10px;
+}
+
+.fecha{
+    color: #C30;
+    font-weight: bold;
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1{
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.contenedor-inline{
+    border: 3px dashed blue;
+    padding: 10px;
+    color: black;
+}
+
+.titulo-bloque{
+    border: 3px solid red;
+    background-color: #FFF4A3;
+    padding: 10px;
+    margin: 10px 0;
+    color: #000;
+}
